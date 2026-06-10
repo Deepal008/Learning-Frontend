@@ -1,0 +1,13 @@
+div{
+    
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    background-image:url(ironman_1.jpg);
+    background-size: cover;
+    border-top: 1px solid #000;
+    right: 0px;
+    /* bottom: 0px; */
+    position: fixed;
+    color: white;
+}

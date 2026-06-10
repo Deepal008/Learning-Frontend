@@ -1,0 +1,34 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px,solid,black;
+    display: inline-block;
+}
+
+body{
+    background-image: url(images/ironman_3.jpg);
+    background-size: cover;
+}
+
+#box1{
+    background-image: url(images/ironman_1.jpg);
+    background-size: cover;
+}
+#box2{
+    background-image: url(images/spiderman.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#box3{
+    background-image: url(images/ironman_2.jpg);
+    background-size: cover;
+}
+#box4{
+    background-image: url(images/ironman_4.jpg);
+    background-size: cover;
+}
+#box5{
+    background-image: url(images/ironman_2.jpg);
+    background-size: auto;
+}

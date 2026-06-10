@@ -1,0 +1,45 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px,solid,black;
+    display: inline-block;
+}
+#box1{
+    position: static;
+}
+
+/* Relative to itself */
+#box2{
+    position: relative;
+    top: -20px;
+    left: -25px;;
+}
+
+/* Relative to parents */
+#box3{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+}
+
+
+/* for bottom nav baar */
+/* #box4{
+    position: fixed;
+    right: 10px;
+    bottom: 0px;
+    width: 100vw;
+} */
+
+
+/* for top navebar */
+#box4{
+    position: fixed;
+    top: 0px;
+}
+#box5{
+    position: sticky;
+    top: 0px;
+    left: 500px;
+}

@@ -1,0 +1,43 @@
+div{
+    width: px;
+    height: 500px;
+    background-color: pink;
+    /*border-width: 2px;
+    border-style: solid;
+    border-color: black;*/
+    /* text-align: left;
+    border: 2px solid brown;
+    border-radius: 50%; */
+    /* padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px; */
+    /* padding: 25px; */
+
+    
+    #two{
+        border-radius: 50px;
+        background-color: green;
+    }
+    #one{
+        background-color: red;
+    }
+
+    margin: 50px;
+    
+    
+    #three{
+        background-color: yellow;
+    }
+}
+
+h1{
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    text-align: center;
+    border: 3px dashed black    ;
+}
+body{
+    widthpx;
+    background-color: black;
+}

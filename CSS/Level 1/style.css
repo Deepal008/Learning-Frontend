@@ -1,0 +1,46 @@
+/* h1{
+    color: red;
+}
+
+button{
+    color: blue;
+    background-color: navajowhite;
+}
+body{
+    /* background-color: rgb(278, 150, 200); */
+    /* background-color: #ffff00; */
+/* } */
+
+/* Selectors
+
+type of selectors:-
+
+Universal selector
+*{}
+
+Element  selector
+h1{}
+
+Id selector
+#myId{}
+
+
+Class Selector
+.myClass{} */
+ 
+/* .myclass{
+    color: aqua;
+    background-color: black;
+} */
+
+#box{
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+
+button{
+    background-color: green;
+}

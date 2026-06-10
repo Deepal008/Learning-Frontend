@@ -1,0 +1,28 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#one{
+    font-size: 25px;
+}
+
+#two{
+    font-size: 18px;
+}
+
+#three{
+    font-size: 25px;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+h1{
+    text-align: center;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+}

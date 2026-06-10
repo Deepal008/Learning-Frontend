@@ -1,0 +1,31 @@
+*{
+    color: white;
+}
+div{
+    height: 60px;
+    background-color: #0f1111;
+}
+a{
+    margin-right: 50px;
+}
+button{
+    background-color: #f08804;
+}
+
+main{
+    height: 600px;
+}
+#box{
+    height: 100px;
+    width: 100px;
+    border: 2px,solid, black;
+    display: inline-block;
+}
+
+footer{
+    background-color: #0f1111;
+    text-align: center;
+}
+a{
+    margin-right: 150px;
+}
