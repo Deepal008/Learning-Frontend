@@ -1,0 +1,22 @@
+/* .heading{
+    color: white;
+    background-color: red;
+} */
+
+#box{
+    height:200px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.content{
+    
+    background-color: blueviolet;
+}
+
+.newContent{
+    color: white;
+}
